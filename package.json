@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4",
+    "passport-local": "^1.0.0"
+  },
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "this is an authentication project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
